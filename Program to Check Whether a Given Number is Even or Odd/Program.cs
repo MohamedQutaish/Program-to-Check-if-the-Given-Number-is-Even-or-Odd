@@ -21,15 +21,15 @@ namespace Program_to_Check_Whether_a_Given_Number_is_Even_or_Odd
 
             {
                 Console.Write("Entered number is Even");
-                Console.Read();
             }
             
             else
             
                 {
                 Console.Write("Entered nubmer is Odd");
-                Console.Read();
+                
             }
+            Console.Read();
             
 
         }
