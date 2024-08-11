@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program to Check Whether a Given Number is Even or Odd", "Program to Check Whether a Given Number is Even or Odd\Program to Check Whether a Given Number is Even or Odd.csproj", "{B4BC6273-39B3-4732-BD54-30CD06121016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BC6273-39B3-4732-BD54-30CD06121016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BC6273-39B3-4732-BD54-30CD06121016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BC6273-39B3-4732-BD54-30CD06121016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BC6273-39B3-4732-BD54-30CD06121016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A57E8E-11DE-4B9D-BDFB-A1864AAA6A66}
+	EndGlobalSection
+EndGlobal
